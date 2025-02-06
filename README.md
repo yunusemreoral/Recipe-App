@@ -12,8 +12,8 @@
 <li>SCSS</li>
 <li>JS</li>
 <li>API</li>
-<li>TOASTİFY</
-<li>UUID</
+<li>TOASTİFY</li>
+<li>UUID</li>
 
 # Ekran Görüntüsü 🎥
 <img src="recipe.gif" width="auto">      
